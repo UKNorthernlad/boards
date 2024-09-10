@@ -1,0 +1,36 @@
+{
+  "packages": [
+    {
+      "name": "UK Northern Boards",
+      "maintainer": "UKNL.DevBoards",
+      "websiteURL": "https://github.com/UKNorthernlad/boards/",
+      "email": "uknl@north.uk",
+      "help": {
+        "online": "https://github.com/UKNorthernlad/boards/README.md"
+      },
+      "platforms": [
+        {
+          "name": "Northern Dev Boards",
+          "architecture": "windows",
+          "version": "1.0.0",
+          "category": "Contributed",
+          "help": {
+            "online": "https://github.com/UKNorthernlad/boards/README.md"
+          },
+          "url": "https://github.com/user-attachments/files/16955249/product.zip",
+          "archiveFileName": "product.zip",
+          "checksum": "SHA-256:bb4bc8239adc5703774c49f683f899d81af4440ea809d7ec7e327578bff85686",
+          "size": "213",
+          "help": {
+                    "online": "https://github.com/UKNorthernlad/boards/README.md"
+          },
+          "boards": [
+            {"name": "UKNL DevBoard v1"}
+          ],
+          "toolsDependencies":[]
+        } 
+      ],
+      "tools":[]
+    }
+  ]
+}
